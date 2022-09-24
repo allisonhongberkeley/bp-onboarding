@@ -1,0 +1,11 @@
+.login-comp {
+    padding: 40px; 
+}
+
+.dark-grey {
+    color: #525454;
+}
+
+.right-align {
+    justify-content: flex-end; 
+}
